@@ -3,9 +3,11 @@
 Professor: Tiago
 
 Início:  26/03/2024
+
 Término: 25/04/2024
 
 Carga horária 40 hrs
+
 Terça e Quinta das 08h00 às 12h00.
 
 ![img_escola](/fachada.jpg)
