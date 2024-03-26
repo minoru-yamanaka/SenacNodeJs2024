@@ -8,11 +8,13 @@ Término: 25/04/2024
 Carga horária 40 hrs
 Terça e Quinta das 08h00 às 12h00.
 
+![img_escola](/fachada.jpg)
 ## Resumo
 
-Desenvolver e configurar ambiente Node.js, desenvolvendo código JavaScript e executando no back-end. Também criará APTI Rest para acessar banco de dados e atender requisições HTTPs.
+Desenvolver e configurar ambiente Node.js, desenvolvendo código JavaScript e executando no back-end. Manipular APTI Rest para acessar banco de dados e atender requisições HTTPs.
 
 ## PROGRAMAÇÃO DO CURSO
+
 - Configurar o ambiente de desenvolvimento back-end, seguindo os padrões do Node.js
 - Criar serviços web, utilizando padrões de arquitetura REST
 - Manipular banco de dados: conceito de MER, MySQL, instruções SQL, conceito de ORM e models
