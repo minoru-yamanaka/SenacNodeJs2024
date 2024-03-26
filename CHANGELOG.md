@@ -6,5 +6,6 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.
 ## 0.1.0 - 2024-03-026
 
 ### Adicionado
+- README.md e CHANGELOG.md
 - exercícios de introdução no terminal 
 - Apresentação e dinâmica 
