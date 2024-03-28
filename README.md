@@ -27,3 +27,29 @@ Desenvolver e configurar ambiente Node.js, desenvolvendo código JavaScript e ex
 - Alinhar com padrão de arquitetura MVC na estrutura de aplicação
 - Utilizar arquitetura Restful, protocolo HTTP e framework Express
 - Interpretar requisitos de pessoas usuárias
+
+
+## 👨‍💻 Bruxo
+<p>
+    <img 
+      align="left" 
+      margin="10" 
+      width="80" 
+      style="border-radius: 500px;"
+      src="https://avatars.githubusercontent.com/minoru-yamanaka?v=4"
+    />
+    <br>&nbsp;&nbsp;&nbsp;Minoru Yamanaka<br>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/minoru-yamanaka">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/minoru-yamanaka-2272a6243/">LinkedIn</a>
+    &nbsp;|&nbsp;
+    <a href="https://www.instagram.com/minoruyamanaka09/">
+    Instagram</a>
+    &nbsp;|&nbsp;
+</p>
+
+<p>
+
+---
+⌨️ com 💜 por [Minoru Yamanaka](https://github.com/minoru-yamanaka)
