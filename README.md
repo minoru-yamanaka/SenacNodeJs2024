@@ -1,14 +1,10 @@
 # Desenvolvimmento Web Back-end: NodeJs
 
-Professor: Tiago
-
-Início:  26/03/2024
-
-Término: 25/04/2024
-
-Carga horária 40 hrs
-
-Terça e Quinta das 08h00 às 12h00.
+Professor: Tiago<br>
+Início:  26/03/2024<br>
+Término: 25/04/2024<br>
+Carga horária 40 hrs<br>
+Terça e Quinta das 08h00 às 12h00.<br>
 
 ![img_escola](/fachada.jpg)
 ## Resumo
@@ -43,9 +39,6 @@ Desenvolver e configurar ambiente Node.js, desenvolvendo código JavaScript e ex
     <a href="https://github.com/minoru-yamanaka">
     GitHub</a>&nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/minoru-yamanaka-2272a6243/">LinkedIn</a>
-    &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/minoruyamanaka09/">
-    Instagram</a>
     &nbsp;|&nbsp;
 </p>
 
